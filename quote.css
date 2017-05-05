@@ -1,0 +1,48 @@
+
+body{
+ background-image: url(https://movies.mxdwn.com/wp-content/uploads/2014/10/9a887d75fed2ffb7b641dbf85b3bffd9.png);
+ background-repeat: no-repeat;
+ background-size: 100%;
+
+  }
+.quote-box {
+  height: auto;
+  width: 450px;
+  border-radius: 10px;
+  margin: 60px auto auto auto;
+  padding-bottom: 10px;
+  padding-top:40px;
+  background-color: #CCE5FF;
+  text-align: center;
+  float: left;
+}
+
+.actualQuotes {
+  width: 325px;
+  margin: 30px 5px 0 5px;
+  text-align: auto;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 20px;
+
+
+}
+#button{
+	text-align: center;
+	 width: 125px;
+  height: 30px;
+  margin: 0 auto;
+  margin-top: 30px;
+  border-radius: 10px;
+  cursor: pointer;
+  border-radius: 5px;
+  font-style: times;
+  font-size: 16px;
+}
+h1{
+	text-align: center;
+}
+footer{
+	color: #CC0000;
+	font-size: 15px;
+}
